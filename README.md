@@ -1,4 +1,4 @@
-# 🎧 Audex – AI Audio to Text Converter
+# Align – Team Task & Workflow Management System
 
 🚀 **Live Demo:** https://align-theta.vercel.app/
 
