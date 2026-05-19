@@ -55,5 +55,5 @@ Align is a full-stack team productivity and workflow management platform designe
 
 ### Clone the repository
 ```bash
-git clone https://github.com/yourusername/align.git
+git clone https://github.com/vishal7800/Align.git
 cd align
